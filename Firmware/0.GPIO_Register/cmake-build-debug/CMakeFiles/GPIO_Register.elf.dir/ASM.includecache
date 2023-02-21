@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/byron/dev/STM32F4/STM32_Tutorial/Firmware/0.GPIO_Register/Core/Startup/startup_stm32f407zgtx.s
+
